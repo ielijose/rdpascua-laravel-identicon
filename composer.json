@@ -9,7 +9,8 @@
     ],
     "require": {
         "php": ">=5.4.0",
-        "illuminate/support": "4.2.x"
+        "illuminate/support": "4.2.x",
+        "yzalis/identicon": "1.0.*@dev"
     },    
     "autoload": {
         "psr-0": {
